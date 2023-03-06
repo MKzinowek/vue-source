@@ -1,0 +1,52 @@
+{
+    "1": {
+        "label": "LightRain",
+        "duration": "30s",
+        "path": ""
+    },
+    "2":{
+        "label": "WindyForest",
+        "duration": "1m 5s",
+        "path": ""
+    },
+    "3":{
+        "label": "MorningBirds",
+        "duration": "2m 28s",
+        "path": ""
+    },
+    "4":{
+        "label": "SummerInsect",
+        "duration": "1m 19s",
+        "path": ""
+    },
+    "5":{
+        "label": "Stream",
+        "duration": "1m 39s",
+        "path": ""
+    },
+    "6":{
+        "label": "Cicadas",
+        "duration": "59s",
+        "path": ""
+    },
+    "7":{
+        "label": "Fire",
+        "duration": "32s",
+        "path": ""
+    },
+    "8":{
+        "label": "Squirrel",
+        "duration": "35s",
+        "path": ""
+    },
+    "9":{
+        "label": "MourningDove",
+        "duration": "35s",
+        "path": ""
+    },
+    "10":{
+        "label": "Crickets",
+        "duration": "1m 32s",
+        "path": ""
+    }
+}
