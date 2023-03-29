@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Zebra",
+        "description": "A cute little, black and white striped zebra",
+        "src": "../../public/ZebraImage1.jpg"
+    },
+    {
+        "name": "Polar Bear",
+        "description": "A big, white bear",
+        "src": "../../public/PolarBearImage2.jpg"
+    },
+    {
+        "name": "Rhino",
+        "description": "A big grey animal with a horn",
+        "src": "../../public/RhinoImage6.jpg"
+    },
+    {
+        "name": "Panda",
+        "description": "A little black and white bear",
+        "src": "PandaImage5.jpg"
+    }
+]
